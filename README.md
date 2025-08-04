@@ -15,4 +15,13 @@ A simple and elegant analog clock built using HTML, CSS, and JavaScript.
 - Using `Date()` object to get current time
 - CSS transformations and rotation based on time
 
+---
+
+🙋‍♂️ Author: Adib Hassan
+
+-🌐 Portfolio: Not yet made
+-📧 Email: adibhassan.dev@gmail.com
+-🔗 GitHub: https://github.com/codebyadib
+-LinkedIn: www.linkedin.com/in/codebyadib
+-Facebook: https://www.facebook.com/codebyadib
 
