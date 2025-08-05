@@ -20,8 +20,8 @@ A simple and elegant analog clock built using HTML, CSS, and JavaScript.
 🙋‍♂️ Author: Adib Hassan
 
 - 🌐 Portfolio: Not yet made
-- 📧 Email: adibhassan.dev@gmail.com
-- 🔗 GitHub: https://github.com/codebyadib
+- 📧 Email: dev.codebyadib@gmail.com
 - LinkedIn: www.linkedin.com/in/codebyadib
-- Facebook: https://www.facebook.com/codebyadib
+- Facebook: https://www.facebook.com/codebyadibdev
+- 🔗 GitHub: https://github.com/codebyadib
 
